@@ -1,0 +1,22 @@
+{
+  "name": "cz-zh",
+  "version": "1.0.0",
+  "description": "根据cz-conventional-changelog制作的中文定制化适配器，美化commit提交",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l2en/cz-ZH.git"
+  },
+  "keywords": [
+    "cz-zh"
+  ],
+  "author": "l2en",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l2en/cz-ZH/issues"
+  },
+  "homepage": "https://github.com/l2en/cz-ZH#readme"
+}

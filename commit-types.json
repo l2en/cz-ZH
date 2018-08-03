@@ -1,0 +1,62 @@
+{
+  "feat": {
+    "description": "🌟  一个新特性",
+    "title": "Features"
+  },
+  "fix": {
+    "description": "🐛  一个bug修复",
+    "title": "Bug fixes"
+  },
+  "perf": {
+    "description": "🚀  提升性能的代码更改",
+    "title": "Performance Improvements"
+  },
+  "WIP": {
+    "description": "💻  新功能或模块正在开发中，还未完全开发完成",
+    "title": "Work in progress"
+  },
+  "debug": {
+    "description": "👫  前后端联调时的代码调整",
+    "title": "Debug"
+  },
+  "review": {
+    "description": "🔍  代码审核后的更改",
+    "title": "Code Review"
+  },
+  "style": {
+    "description": "🎨  对代码含义无影响的改动（空格，格式化，丢失的';'等）",
+    "title": "Styles"
+  },
+  "docs": {
+    "description": "📝  只有文档发生改变",
+    "title": "Documents"
+  },
+  "test": {
+    "description": "🔧  添加一些缺失的测试或者修正已存在的测试",
+    "title": "Tests"
+  },
+  "refactor": {
+    "description": "🔨  既不是修复bug也更不是添加新特性的代码更改",
+    "title": "Code Refactoring"
+  },
+  "build": {
+    "description": "🏠  影响构建系统或外部依赖的更改（例如：gulp，npm，webpack）",
+    "title": "Builds"
+  },
+  "ci": {
+    "description": "📦  持续集成的配置文件和脚本的改变（例如: Travis, Circle, BrowserStack, SauceLabs）",
+    "title": "Continuous Integrations"
+  },
+  "chore": {
+    "description": "💍  没有修改源码或测试文件的其他改动",
+    "title": "Chores"
+  },
+  "revert": {
+    "description": "🔙  恢复到上一个commit",
+    "title": "Reverts"
+  },
+  "temp": {
+    "description": "🚫  临时提交，用于自我管理代码或临时备份，正式提交中不允许出现此类别",
+    "title": "Temp"
+  }
+}
