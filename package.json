@@ -1,6 +1,6 @@
 {
   "name": "cz-zh",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "根据cz-conventional-changelog制作的中文定制化适配器，美化commit提交",
   "main": "index.js",
   "scripts": {
