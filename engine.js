@@ -1,9 +1,9 @@
 "format cjs";
 
-var wrap = require('./node_modules/word-wrap');
-var map = require('./node_modules/lodash.map');
-var longest = require('./node_modules/longest');
-var rightPad = require('./node_modules/right-pad');
+var wrap = require('./packages/word-wrap');
+var map = require('./packages/lodash.map');
+var longest = require('./packages/longest');
+var rightPad = require('./packages/right-pad');
 
 var filter = function(array) {
   return array.filter(function(x) {

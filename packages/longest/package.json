@@ -1,0 +1,111 @@
+{
+  "name": "longest",
+  "description": "Get the longest item in an array.",
+  "version": "2.0.1",
+  "homepage": "https://github.com/jonschlinkert/longest",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "contributors": [
+    {
+      "name": "Jon Schlinkert",
+      "url": "http://twitter.com/jonschlinkert"
+    },
+    {
+      "name": "Kevin Mårtensson",
+      "url": "https://github.com/kevva"
+    },
+    {
+      "name": "Kyle Mitchell",
+      "url": "https://kemitchell.com"
+    },
+    {
+      "name": "Shinnosuke Watanabe",
+      "url": "https://shinnn.github.io"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/longest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/longest/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.12",
+    "mocha": "^3.3.0"
+  },
+  "keywords": [
+    "array",
+    "element",
+    "item",
+    "length",
+    "long",
+    "longest"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "ac972ba4b20a4eb44ef119b8bc88cf20fa1aef22",
+  "_id": "longest@2.0.1",
+  "_shasum": "781e183296aa94f6d4d916dc335d0d17aefa23f8",
+  "_from": "longest@latest",
+  "_npmVersion": "4.6.1",
+  "_nodeVersion": "7.7.3",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "doowb",
+      "email": "brian.woodward@gmail.com"
+    },
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    },
+    {
+      "name": "shinnn",
+      "email": "snnskwtnb@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "781e183296aa94f6d4d916dc335d0d17aefa23f8",
+    "size": 2462,
+    "noattachment": false,
+    "tarball": "http://cd:4873/longest/-/longest-2.0.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/longest-2.0.1.tgz_1495773465399_0.1704808978829533"
+  },
+  "directories": {},
+  "publish_time": 1495773466330,
+  "_hasShrinkwrap": false,
+  "_cnpm_publish_time": 1495773466330,
+  "_resolved": "http://cd:4873/longest/-/longest-2.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
