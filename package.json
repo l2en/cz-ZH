@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/l2en/cz-ZH/issues"
   },
-  "homepage": "https://github.com/l2en/cz-ZH#readme"
+  "homepage": "https://github.com/l2en/cz-ZH#readme",
+  "dependencies": {
+    "longest": "^2.0.1"
+  }
 }
